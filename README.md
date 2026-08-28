@@ -238,37 +238,33 @@ The `DATEDIFF()` function is used to calculate the number of overdue days.
 
 # 📸 Screenshots
 
-The following screenshots show the tables and SQL query results created using MySQL Workbench.
-
 ## 👩‍🎓 Students Table
 
-![Students Table](./Screenshots/students.png)
+![Students Table](https://github.com/pavani8888/Library-management/blob/main/Screenshots/students.png?raw=true)
 
 ---
 
 ## 📚 Books Table
 
-![Books Table](./Screenshots/books.png)
+![Books Table](https://github.com/pavani8888/Library-management/blob/main/Screenshots/books.png?raw=true)
 
 ---
 
 ## 🔄 Borrowings Table
 
-![Borrowings Table](./Screenshots/borrowings.png)
+![Borrowings Table](https://github.com/pavani8888/Library-management/blob/main/Screenshots/borrowings.png?raw=true)
 
 ---
 
 ## 🔗 JOIN Query Result
 
-![JOIN Query Result](./Screenshots/joins%20query.png)
+![JOIN Query Result](https://github.com/pavani8888/Library-management/blob/main/Screenshots/joins%20query.png?raw=true)
 
 ---
 
 ## 💰 Fine Calculation
 
-![Fine Calculation](./Screenshots/fina.png)
-
----
+![Fine Calculation](https://github.com/pavani8888/Library-management/blob/main/Screenshots/fina.png?raw=true)
 
 ## 📁 Project Structure
 
