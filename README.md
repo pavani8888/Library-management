@@ -258,13 +258,13 @@ The `DATEDIFF()` function is used to calculate the number of overdue days.
 
 ## 🔗 JOIN Query Result
 
-![JOIN Query Result](https://github.com/pavani8888/Library-management/blob/main/Screenshots/joins%20query.png?raw=true)
+![JOIN Query Result](https://github.com/pavani8888/Library-management/blob/main/Screenshots/joinsquery.png?raw=true)
 
 ---
 
 ## 💰 Fine Calculation
 
-![Fine Calculation](https://github.com/pavani8888/Library-management/blob/main/Screenshots/fina.png?raw=true)
+![Finel Calculation](https://github.com/pavani8888/Library-management/blob/main/Screenshots/final.png?raw=true)
 
 ## 📁 Project Structure
 
